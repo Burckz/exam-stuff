@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\bin\Debug\netcoreapp2.1\knight game.deps.json
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\bin\Debug\netcoreapp2.1\knight game.runtimeconfig.json
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\bin\Debug\netcoreapp2.1\knight game.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\bin\Debug\netcoreapp2.1\knight game.dll
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\bin\Debug\netcoreapp2.1\knight game.pdb
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\obj\Debug\netcoreapp2.1\knight game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\obj\Debug\netcoreapp2.1\knight game.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\obj\Debug\netcoreapp2.1\knight game.AssemblyInfo.cs
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\obj\Debug\netcoreapp2.1\knight game.dll
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\obj\Debug\netcoreapp2.1\knight game.pdb
+C:\Users\User\source\repos\exam prep csharp advanced\knight game\obj\Debug\netcoreapp2.1\knight game.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\bin\Debug\netcoreapp2.1\crypto blockchain.deps.json
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\bin\Debug\netcoreapp2.1\crypto blockchain.runtimeconfig.json
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\bin\Debug\netcoreapp2.1\crypto blockchain.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\bin\Debug\netcoreapp2.1\crypto blockchain.dll
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\bin\Debug\netcoreapp2.1\crypto blockchain.pdb
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\obj\Debug\netcoreapp2.1\crypto blockchain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\obj\Debug\netcoreapp2.1\crypto blockchain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\obj\Debug\netcoreapp2.1\crypto blockchain.AssemblyInfo.cs
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\obj\Debug\netcoreapp2.1\crypto blockchain.dll
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\obj\Debug\netcoreapp2.1\crypto blockchain.pdb
+C:\Users\User\source\repos\exam prep csharp advanced\crypto blockchain\obj\Debug\netcoreapp2.1\crypto blockchain.csprojAssemblyReference.cache

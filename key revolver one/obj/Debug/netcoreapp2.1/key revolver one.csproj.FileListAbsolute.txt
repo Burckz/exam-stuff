@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\bin\Debug\netcoreapp2.1\key revolver one.deps.json
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\bin\Debug\netcoreapp2.1\key revolver one.runtimeconfig.json
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\bin\Debug\netcoreapp2.1\key revolver one.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\bin\Debug\netcoreapp2.1\key revolver one.dll
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\bin\Debug\netcoreapp2.1\key revolver one.pdb
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\obj\Debug\netcoreapp2.1\key revolver one.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\obj\Debug\netcoreapp2.1\key revolver one.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\obj\Debug\netcoreapp2.1\key revolver one.AssemblyInfo.cs
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\obj\Debug\netcoreapp2.1\key revolver one.dll
+C:\Users\User\source\repos\exam prep csharp advanced\key revolver one\obj\Debug\netcoreapp2.1\key revolver one.pdb

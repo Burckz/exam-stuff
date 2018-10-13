@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\bin\Debug\netcoreapp2.1\sneaking one.deps.json
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\bin\Debug\netcoreapp2.1\sneaking one.runtimeconfig.json
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\bin\Debug\netcoreapp2.1\sneaking one.runtimeconfig.dev.json
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\bin\Debug\netcoreapp2.1\sneaking one.dll
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\bin\Debug\netcoreapp2.1\sneaking one.pdb
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\obj\Debug\netcoreapp2.1\sneaking one.csprojAssemblyReference.cache
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\obj\Debug\netcoreapp2.1\sneaking one.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\obj\Debug\netcoreapp2.1\sneaking one.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\obj\Debug\netcoreapp2.1\sneaking one.AssemblyInfo.cs
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\obj\Debug\netcoreapp2.1\sneaking one.dll
+C:\Users\User\source\repos\exam prep csharp advanced\sneaking one\obj\Debug\netcoreapp2.1\sneaking one.pdb
